@@ -17,3 +17,7 @@
 - ⛏️ 동아리 프로젝트 제작
 - 🔨 개인 프로젝트 제작
 - 🧾 깔끔한 포트폴리오 정리 및 논문 작성
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unknownbox-collab&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![my's github stats](https://github-readme-stats.vercel.app/api?username=unknownbox-collab)](https://github.com/anuraghazra/github-readme-stats)
